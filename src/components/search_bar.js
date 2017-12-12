@@ -8,11 +8,7 @@ class SearchBar extends Component {
         this.state= {
             term:"Start"
         }
-
-
     }
-
-
 
     render(){
         return(
@@ -22,10 +18,7 @@ class SearchBar extends Component {
             </div>
         )
     }
-
 }
-
-
 
 
 export default SearchBar;
